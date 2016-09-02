@@ -14,6 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
+#Practice code to review
+
 months = ['January','February','March','April','May','June','July','August','September','October','November','December']
 
 month_abbvs = dict((m[:3].lower(),m) for m in months)
